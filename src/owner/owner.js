@@ -12,7 +12,7 @@ const Erick = new Owner({
     lastName: "Zelaya",
     age: 18,
     dui: "987654321",
-    phoneNumber: 78441235   
+    phoneNumber: 78441235
 });
     
 
